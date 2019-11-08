@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+
+#logo{
+    width: 48px;
+    object-fit: cover;
+}
+
+
+
+.navbar-nav .nav-link{
+    font-weight: 900;
+    color:#fff !important;    
+}
+.inverse{
+    min-width: 100%;
+    background-color: #fafafa;
+    min-height: 450px !important;
+}
